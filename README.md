@@ -1,4 +1,4 @@
-# Clarity Aoo
+# Clarity App
 
 Run backend with 
 - (from main directory)
