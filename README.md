@@ -1,4 +1,4 @@
-# cop4331-team4-largeproject
+# Clarity Aoo
 
 Run backend with 
 - (from main directory)
